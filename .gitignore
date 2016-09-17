@@ -2,3 +2,6 @@
 dist
 working
 master
+awsStuff.txt
+credentials.csv
+googleOAuth.txt
